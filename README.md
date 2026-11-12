@@ -1,5 +1,7 @@
 # Deploy and Host Mem0 on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mem0-1?utm_medium=integration&utm_source=button&utm_campaign=mem0)
+
 Mem0 is an open-source memory layer for AI agents and assistants. It extracts facts from conversations with an LLM, stores them as vector embeddings, and returns the relevant memories for each user, agent or session when you search. Apps use it through its REST API or the official Python and TypeScript SDKs.
 
 ## About Hosting Mem0
